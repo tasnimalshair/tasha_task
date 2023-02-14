@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tasha_task</string>
+    <string name="facebook_app_id">430259882474133</string>
+    <string name="fb_login_protocol_scheme">d195daf9159696f41bdf4b339c22b8f4</string>
+    <string name="facebook_client_token">96bd8d6398fa4b2a2cb779af4ab4f51b</string>
+
+
+</resources>
